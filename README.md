@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi there! I'm a Senior Full-Stack Engineer With 6+ Years of Experience
 
-<!--
-**AhsanShamsuddin/AhsanShamsuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable full-stack applications across **Web**, **Mobile**, and **AI-powered systems**.
 
-Here are some ideas to get you started:
+## 🔧 Tech I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**:  
+React · Next.js · TypeScript · Tailwind · Redux
+
+**Backend**:  
+Node.js · Express · FastAPI · Python · REST · GraphQL
+
+**Mobile**:  
+Flutter · React Native
+
+**Databases**:  
+PostgreSQL · MySQL · MongoDB · Redis
+
+**Infra / DevOps**:  
+Docker · MCP (MicroCloudProviders) · Nginx - Kubernetes · GitHub Actions · Linux · CI/CD · NATS
+
+**AI / ML**:  
+LLMs (OpenAI, HuggingFace, Ollama) · LangChain · Vector DBs · Pinecone · RAG systems · MLOps · Computer Vision (YOLO, OpenCV)
+
+---
+
+## 🚀 What I Build
+- AI-driven platforms (LLM apps, RAG pipelines, chatbots)
+- Real-time web/mobile apps
+- Multi-tenant SaaS platforms
+- Backend APIs with scalable infra
+- Open source tools
+
+---
+
+## 📚 Current Focus
+- Local LLMs & inference (Ollama, LM Studio, vLLM)
+- Integrating AI into full-stack workflows
+- Edge deployment and self-hosting AI services
+
+---
+
+## 🤝 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/ahsanshamsuddin)
